@@ -1,7 +1,7 @@
 # Nice to see you.
 
 Welcome to my page!</br>
-I'm Patrycja, Frontend developer from Kraków, Poland. 	:flag_pl:, :flag-pl:, :flag_poland:, :poland:
+I'm Patrycja, Frontend developer from Kraków, Poland :poland: .
 
 <h2> <img src="https://slackmojis.com/emojis/12451-meow_science/" width="30"/> My Tech Stack</h2>
 
