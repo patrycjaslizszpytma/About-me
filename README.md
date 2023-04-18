@@ -1,6 +1,4 @@
-# About-me
-Few words about me 
-<h1><img src="https://slackmojis.com/emojis/9579-blob_excited/" width="30"/>Nice to see you.</h1>
+# Nice to see you.
 
 Welcome to my page!</br>
 I'm Patrycja, Frontend developer from <img src="https://slackmojis.com/emojis/48641-meow_poland/" width="13"/> Kraków, Poland .
