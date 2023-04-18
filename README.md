@@ -3,7 +3,7 @@
 Welcome to my page!</br>
 I'm Patrycja, Frontend developer from Kraków, Poland :poland: .
 
-<h2> <img src="https://slackmojis.com/emojis/12451-meow_science/" width="30"/> My Tech Stack</h2>
+<h2> :woman_technologist: My Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
