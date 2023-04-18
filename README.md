@@ -1,6 +1,6 @@
 # Nice to see you.
 
-Welcome to my page!</br>
+:wave: Welcome to my page!</br>
 I'm Patrycja, Frontend developer from Kraków, Poland :poland: .
 
 <h2> :hammer_and_wrench: My Tech Stack</h2>
@@ -14,7 +14,6 @@ I'm Patrycja, Frontend developer from Kraków, Poland :poland: .
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
-<br>
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
 <!-- ![Jira](https://img.shields.io/badge/Jira-F7F7F7?style=flat&logo=Jira-Software&logoColor=2580F7)-->
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white) -->
@@ -67,7 +66,7 @@ I'm Patrycja, Frontend developer from Kraków, Poland :poland: .
 </table>
 
 
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1613366889/12964/meow_trash.png?1613366889" width="30"/> Where to find me </h2>
+<h2> :mag_right: Where to find me </h2>
 
 <a href="https://github.com/patrycjaslizszpytma" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/patrycja-%C5%9Bli%C5%BC-szpytma/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
