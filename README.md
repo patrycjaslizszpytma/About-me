@@ -15,21 +15,19 @@ I'm Patrycja, Frontend developer from Kraków, Poland :poland: .
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 <br>
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-F7F7F7?style=flat&logo=Jira-Software&logoColor=2580F7)
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white) -->
 <!-- ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) -->
-<!-- ![Jira](https://img.shields.io/badge/Jira-F7F7F7?style=flat&logo=Jira-Software&logoColor=2580F7) -->
 
-<!-- <h3> :man_student: I'm currently learning</h3>
-[Jest](https://img.shields.io/badge/Jest-97747E?style=flat&logo=jest&logoColor=white)
+<h3> :man_student: I'm currently learning</h3>
+![Jest](https://img.shields.io/badge/Jest-97747E?style=flat&logo=jest&logoColor=white)
 <!-- ![Cypress](https://img.shields.io/badge/Cypress-24262E?style=flat&logo=Cypress&logoColor=white) -->
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-
-
 
 <!-- <br> -->
 
 <!-- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat&logo=eslint)
 <br>
 ![Phaser](https://img.shields.io/badge/Phaser-B877D3?style=flat)
