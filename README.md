@@ -3,7 +3,7 @@
 Welcome to my page!</br>
 I'm Patrycja, Frontend developer from Kraków, Poland :poland: .
 
-<h2> :woman_technologist: My Tech Stack</h2>
+<h2> :hammer_and_wrench: My Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
@@ -19,11 +19,11 @@ I'm Patrycja, Frontend developer from Kraków, Poland :poland: .
 <!-- ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) -->
 <!-- ![Jira](https://img.shields.io/badge/Jira-F7F7F7?style=flat&logo=Jira-Software&logoColor=2580F7) -->
 
-<!-- <h3> <img src="https://emojis.slackmojis.com/emojis/images/1613187874/12657/meow_puffy_giggle.png?1613187874" width="20"/> I'm currently learning</h3>
-![Jest](https://img.shields.io/badge/Jest-97747E?style=flat&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-24262E?style=flat&logo=Cypress&logoColor=white)
+<!-- <h3> :man_student: I'm currently learning</h3>
+[Jest](https://img.shields.io/badge/Jest-97747E?style=flat&logo=jest&logoColor=white)
+<!-- ![Cypress](https://img.shields.io/badge/Cypress-24262E?style=flat&logo=Cypress&logoColor=white) -->
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
- -->
+
 
 
 <!-- <br> -->
@@ -36,7 +36,7 @@ I'm Patrycja, Frontend developer from Kraków, Poland :poland: .
 ![Contra.js](https://img.shields.io/badge/Contra.js-B12A34?style=flat)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity) -->
 
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1596061283/9840/meow_fiesta.png?1596061283" width="30"/> Some cool projects I made</h2>
+<h2> :woman_technologist: Some cool projects I made</h2>
 
 <table>
   <tbody>
