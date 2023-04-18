@@ -26,9 +26,7 @@ I'm Patrycja, Frontend developer from <img src="https://slackmojis.com/emojis/48
 ![Cypress](https://img.shields.io/badge/Cypress-24262E?style=flat&logo=Cypress&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
  -->
-<!-- ![Confluence](https://img.shields.io/badge/Confluence-F7F7F7?style=flat&logo=Confluence&logoColor=2580F7) -->
 
-<!-- ![TestRail](https://img.shields.io/badge/TestRail-0A3653?style=flat) -->
 
 <!-- <br> -->
 
@@ -44,6 +42,10 @@ I'm Patrycja, Frontend developer from <img src="https://slackmojis.com/emojis/48
 
 <table>
   <tbody>
+   <tr>
+    <th>Name of the project</th>
+    <th>Used technologies</th>
+   </tr>
     <tr>
       <td><a href="https://github.com/patrycjaslizszpytma"><b>Title1</b></a></td>
       <td>TypeScript, JavaScript, React, SCSS, React Router, Formik with Yup, react-i18next, REST API, React Testing Library (Jest)</td>
