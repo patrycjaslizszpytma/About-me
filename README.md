@@ -20,11 +20,11 @@ I'm Patrycja, Frontend developer from Kraków, Poland :poland: .
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white) -->
 <!-- ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) -->
 
-<h3> :man_student: I'm currently learning</h3>
+
+<h2> :man_student: I'm currently learning </h2>
+
 ![Jest](https://img.shields.io/badge/Jest-97747E?style=flat&logo=jest&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
-<!-- ![Cypress](https://img.shields.io/badge/Cypress-24262E?style=flat&logo=Cypress&logoColor=white) -->
 
 <!-- <br> -->
 
