@@ -23,6 +23,7 @@ I'm Patrycja, Frontend developer from Kraków, Poland :poland: .
 <h3> :man_student: I'm currently learning</h3>
 ![Jest](https://img.shields.io/badge/Jest-97747E?style=flat&logo=jest&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 <!-- ![Cypress](https://img.shields.io/badge/Cypress-24262E?style=flat&logo=Cypress&logoColor=white) -->
 
 <!-- <br> -->
